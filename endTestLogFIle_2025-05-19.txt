@@ -1,0 +1,800 @@
+Endurance test cycle 1:
+                        Prepare step started at 21:30:26
+                        Docking result received at 21:30:26 and the result is True
+                        Undocking result received at 21:30:26 and the result is True
+Endurance test cycle 2:
+                        Prepare step started at 21:30:28
+                        Docking result received at 21:30:29 and the result is False
+                        Undocking result received at 21:30:29 and the result is False
+Endurance test cycle 3:
+                        Prepare step started at 21:30:31
+                        Docking result received at 21:30:31 and the result is True
+                        Undocking result received at 21:30:31 and the result is True
+Endurance test cycle 4:
+                        Prepare step started at 21:30:33
+                        Docking result received at 21:30:34 and the result is False
+                        Undocking result received at 21:30:34 and the result is False
+Endurance test cycle 5:
+                        Prepare step started at 21:30:36
+                        Docking result received at 21:30:36 and the result is True
+                        Undocking result received at 21:30:36 and the result is True
+Endurance test cycle 6:
+                        Prepare step started at 21:30:38
+                        Docking result received at 21:30:39 and the result is True
+                        Undocking result received at 21:30:39 and the result is True
+Endurance test cycle 7:
+                        Prepare step started at 21:30:41
+                        Docking result received at 21:30:41 and the result is True
+                        Undocking result received at 21:30:42 and the result is True
+Endurance test cycle 8:
+                        Prepare step started at 21:30:44
+                        Docking result received at 21:30:44 and the result is False
+                        Undocking result received at 21:30:44 and the result is False
+Endurance test cycle 9:
+                        Prepare step started at 21:30:46
+                        Docking result received at 21:30:46 and the result is True
+                        Undocking result received at 21:30:47 and the result is True
+Endurance test cycle 10:
+                         Prepare step started at 21:30:49
+                         Docking result received at 21:30:49 and the result is True
+                         Undocking result received at 21:30:50 and the result is True
+Endurance test cycle 11:
+                         Prepare step started at 21:30:52
+                         Docking result received at 21:30:52 and the result is True
+                         Undocking result received at 21:30:52 and the result is True
+Endurance test cycle 12:
+                         Prepare step started at 21:30:54
+                         Docking result received at 21:30:54 and the result is True
+                         Undocking result received at 21:30:55 and the result is True
+Endurance test cycle 13:
+                         Prepare step started at 21:30:57
+                         Docking result received at 21:30:57 and the result is True
+                         Undocking result received at 21:30:57 and the result is True
+Endurance test cycle 14:
+                         Prepare step started at 21:30:59
+                         Docking result received at 21:30:59 and the result is True
+                         Undocking result received at 21:31:00 and the result is True
+Endurance test cycle 15:
+                         Prepare step started at 21:31:02
+                         Docking result received at 21:31:02 and the result is True
+                         Undocking result received at 21:31:03 and the result is True
+Endurance test cycle 16:
+                         Prepare step started at 21:31:05
+                         Docking result received at 21:31:05 and the result is True
+                         Undocking result received at 21:31:05 and the result is True
+Endurance test cycle 17:
+                         Prepare step started at 21:31:07
+                         Docking result received at 21:31:08 and the result is True
+                         Undocking result received at 21:31:08 and the result is True
+Endurance test cycle 18:
+                         Prepare step started at 21:31:10
+                         Docking result received at 21:31:10 and the result is False
+                         Undocking result received at 21:31:10 and the result is False
+Endurance test cycle 19:
+                         Prepare step started at 21:31:12
+                         Docking result received at 21:31:13 and the result is True
+                         Undocking result received at 21:31:13 and the result is True
+Endurance test cycle 20:
+                         Prepare step started at 21:31:15
+                         Docking result received at 21:31:15 and the result is True
+                         Undocking result received at 21:31:16 and the result is True
+Endurance test cycle 21:
+                         Prepare step started at 21:31:18
+                         Docking result received at 21:31:18 and the result is True
+                         Undocking result received at 21:31:18 and the result is True
+Endurance test cycle 22:
+                         Prepare step started at 21:31:20
+                         Docking result received at 21:31:21 and the result is False
+                         Undocking result received at 21:31:21 and the result is False
+Endurance test cycle 23:
+                         Prepare step started at 21:31:23
+                         Docking result received at 21:31:23 and the result is True
+                         Undocking result received at 21:31:23 and the result is True
+Endurance test cycle 24:
+                         Prepare step started at 21:31:25
+                         Docking result received at 21:31:26 and the result is False
+                         Undocking result received at 21:31:26 and the result is False
+Endurance test cycle 25:
+                         Prepare step started at 21:31:28
+                         Docking result received at 21:31:28 and the result is True
+                         Undocking result received at 21:31:29 and the result is True
+Endurance test cycle 26:
+                         Prepare step started at 21:31:31
+                         Docking result received at 21:31:31 and the result is True
+                         Undocking result received at 21:31:31 and the result is True
+Endurance test cycle 27:
+                         Prepare step started at 21:31:33
+                         Docking result received at 21:31:34 and the result is True
+                         Undocking result received at 21:31:34 and the result is True
+Endurance test cycle 28:
+                         Prepare step started at 21:31:36
+                         Docking result received at 21:31:37 and the result is False
+                         Undocking result received at 21:31:37 and the result is False
+Endurance test cycle 29:
+                         Prepare step started at 21:31:39
+                         Docking result received at 21:31:39 and the result is True
+                         Undocking result received at 21:31:39 and the result is True
+Endurance test cycle 30:
+                         Prepare step started at 21:31:41
+                         Docking result received at 21:31:42 and the result is False
+                         Undocking result received at 21:31:42 and the result is False
+Endurance test cycle 31:
+                         Prepare step started at 21:31:44
+                         Docking result received at 21:31:44 and the result is True
+                         Undocking result received at 21:31:44 and the result is True
+Endurance test cycle 32:
+                         Prepare step started at 21:31:46
+                         Docking result received at 21:31:47 and the result is False
+                         Undocking result received at 21:31:47 and the result is False
+Endurance test cycle 33:
+                         Prepare step started at 21:31:49
+                         Docking result received at 21:31:49 and the result is False
+                         Undocking result received at 21:31:49 and the result is False
+Endurance test cycle 34:
+                         Prepare step started at 21:31:51
+                         Docking result received at 21:31:51 and the result is True
+                         Undocking result received at 21:31:52 and the result is True
+Endurance test cycle 35:
+                         Prepare step started at 21:31:54
+                         Docking result received at 21:31:54 and the result is True
+                         Undocking result received at 21:31:55 and the result is True
+Endurance test cycle 36:
+                         Prepare step started at 21:31:57
+                         Docking result received at 21:31:57 and the result is True
+                         Undocking result received at 21:31:58 and the result is True
+Endurance test cycle 37:
+                         Prepare step started at 21:32:00
+                         Docking result received at 21:32:00 and the result is True
+                         Undocking result received at 21:32:00 and the result is True
+Endurance test cycle 38:
+                         Prepare step started at 21:32:02
+                         Docking result received at 21:32:03 and the result is False
+                         Undocking result received at 21:32:03 and the result is False
+Endurance test cycle 39:
+                         Prepare step started at 21:32:05
+                         Docking result received at 21:32:05 and the result is True
+                         Undocking result received at 21:32:06 and the result is True
+Endurance test cycle 40:
+                         Prepare step started at 21:32:08
+                         Docking result received at 21:32:08 and the result is True
+                         Undocking result received at 21:32:08 and the result is True
+Endurance test cycle 41:
+                         Prepare step started at 21:32:10
+                         Docking result received at 21:32:10 and the result is True
+                         Undocking result received at 21:32:11 and the result is True
+Endurance test cycle 42:
+                         Prepare step started at 21:32:13
+                         Docking result received at 21:32:13 and the result is False
+                         Undocking result received at 21:32:13 and the result is False
+Endurance test cycle 43:
+                         Prepare step started at 21:32:15
+                         Docking result received at 21:32:15 and the result is True
+                         Undocking result received at 21:32:16 and the result is True
+Endurance test cycle 44:
+                         Prepare step started at 21:32:18
+                         Docking result received at 21:32:18 and the result is True
+                         Undocking result received at 21:32:19 and the result is True
+Endurance test cycle 45:
+                         Prepare step started at 21:32:21
+                         Docking result received at 21:32:21 and the result is True
+                         Undocking result received at 21:32:22 and the result is True
+Endurance test cycle 46:
+                         Prepare step started at 21:32:24
+                         Docking result received at 21:32:24 and the result is True
+                         Undocking result received at 21:32:24 and the result is True
+Endurance test cycle 47:
+                         Prepare step started at 21:32:26
+                         Docking result received at 21:32:27 and the result is True
+                         Undocking result received at 21:32:27 and the result is True
+Endurance test cycle 48:
+                         Prepare step started at 21:32:29
+                         Docking result received at 21:32:30 and the result is True
+                         Undocking result received at 21:32:30 and the result is True
+Endurance test cycle 49:
+                         Prepare step started at 21:32:32
+                         Docking result received at 21:32:33 and the result is False
+                         Undocking result received at 21:32:33 and the result is False
+Endurance test cycle 50:
+                         Prepare step started at 21:32:35
+                         Docking result received at 21:32:35 and the result is True
+                         Undocking result received at 21:32:35 and the result is True
+Endurance test cycle 51:
+                         Prepare step started at 21:32:37
+                         Docking result received at 21:32:38 and the result is False
+                         Undocking result received at 21:32:38 and the result is False
+Endurance test cycle 52:
+                         Prepare step started at 21:32:40
+                         Docking result received at 21:32:40 and the result is True
+                         Undocking result received at 21:32:41 and the result is True
+Endurance test cycle 53:
+                         Prepare step started at 21:32:43
+                         Docking result received at 21:32:43 and the result is True
+                         Undocking result received at 21:32:43 and the result is True
+Endurance test cycle 54:
+                         Prepare step started at 21:32:45
+                         Docking result received at 21:32:46 and the result is True
+                         Undocking result received at 21:32:46 and the result is True
+Endurance test cycle 55:
+                         Prepare step started at 21:32:48
+                         Docking result received at 21:32:48 and the result is True
+                         Undocking result received at 21:32:49 and the result is True
+Endurance test cycle 56:
+                         Prepare step started at 21:32:51
+                         Docking result received at 21:32:51 and the result is True
+                         Undocking result received at 21:32:51 and the result is True
+Endurance test cycle 57:
+                         Prepare step started at 21:32:53
+                         Docking result received at 21:32:54 and the result is True
+                         Undocking result received at 21:32:54 and the result is True
+Endurance test cycle 58:
+                         Prepare step started at 21:32:56
+                         Docking result received at 21:32:56 and the result is True
+                         Undocking result received at 21:32:57 and the result is True
+Endurance test cycle 59:
+                         Prepare step started at 21:32:59
+                         Docking result received at 21:32:59 and the result is False
+                         Undocking result received at 21:32:59 and the result is False
+Endurance test cycle 60:
+                         Prepare step started at 21:33:01
+                         Docking result received at 21:33:02 and the result is True
+                         Undocking result received at 21:33:02 and the result is True
+Endurance test cycle 61:
+                         Prepare step started at 21:33:04
+                         Docking result received at 21:33:04 and the result is True
+                         Undocking result received at 21:33:05 and the result is True
+Endurance test cycle 62:
+                         Prepare step started at 21:33:07
+                         Docking result received at 21:33:07 and the result is False
+                         Undocking result received at 21:33:07 and the result is False
+Endurance test cycle 63:
+                         Prepare step started at 21:33:09
+                         Docking result received at 21:33:09 and the result is True
+                         Undocking result received at 21:33:10 and the result is True
+Endurance test cycle 64:
+                         Prepare step started at 21:33:12
+                         Docking result received at 21:33:12 and the result is True
+                         Undocking result received at 21:33:13 and the result is True
+Endurance test cycle 65:
+                         Prepare step started at 21:33:15
+                         Docking result received at 21:33:15 and the result is False
+                         Undocking result received at 21:33:15 and the result is False
+Endurance test cycle 66:
+                         Prepare step started at 21:33:17
+                         Docking result received at 21:33:17 and the result is True
+                         Undocking result received at 21:33:18 and the result is True
+Endurance test cycle 67:
+                         Prepare step started at 21:33:20
+                         Docking result received at 21:33:20 and the result is False
+                         Undocking result received at 21:33:20 and the result is False
+Endurance test cycle 68:
+                         Prepare step started at 21:33:22
+                         Docking result received at 21:33:22 and the result is True
+                         Undocking result received at 21:33:23 and the result is True
+Endurance test cycle 69:
+                         Prepare step started at 21:33:25
+                         Docking result received at 21:33:25 and the result is True
+                         Undocking result received at 21:33:26 and the result is True
+Endurance test cycle 70:
+                         Prepare step started at 21:33:28
+                         Docking result received at 21:33:28 and the result is True
+                         Undocking result received at 21:33:28 and the result is True
+Endurance test cycle 71:
+                         Prepare step started at 21:33:30
+                         Docking result received at 21:33:30 and the result is True
+                         Undocking result received at 21:33:31 and the result is True
+Endurance test cycle 72:
+                         Prepare step started at 21:33:33
+                         Docking result received at 21:33:33 and the result is True
+                         Undocking result received at 21:33:34 and the result is True
+Endurance test cycle 73:
+                         Prepare step started at 21:33:36
+                         Docking result received at 21:33:36 and the result is True
+                         Undocking result received at 21:33:36 and the result is True
+Endurance test cycle 74:
+                         Prepare step started at 21:33:38
+                         Docking result received at 21:33:39 and the result is True
+                         Undocking result received at 21:33:39 and the result is True
+Endurance test cycle 75:
+                         Prepare step started at 21:33:41
+                         Docking result received at 21:33:41 and the result is True
+                         Undocking result received at 21:33:42 and the result is True
+Endurance test cycle 76:
+                         Prepare step started at 21:33:44
+                         Docking result received at 21:33:44 and the result is True
+                         Undocking result received at 21:33:44 and the result is True
+Endurance test cycle 77:
+                         Prepare step started at 21:33:46
+                         Docking result received at 21:33:47 and the result is True
+                         Undocking result received at 21:33:47 and the result is True
+Endurance test cycle 78:
+                         Prepare step started at 21:33:49
+                         Docking result received at 21:33:50 and the result is True
+                         Undocking result received at 21:33:50 and the result is True
+Endurance test cycle 79:
+                         Prepare step started at 21:33:52
+                         Docking result received at 21:33:52 and the result is True
+                         Undocking result received at 21:33:53 and the result is True
+Endurance test cycle 80:
+                         Prepare step started at 21:33:55
+                         Docking result received at 21:33:55 and the result is True
+                         Undocking result received at 21:33:55 and the result is True
+Endurance test cycle 81:
+                         Prepare step started at 21:33:57
+                         Docking result received at 21:33:57 and the result is True
+                         Undocking result received at 21:33:58 and the result is True
+Endurance test cycle 82:
+                         Prepare step started at 21:34:00
+                         Docking result received at 21:34:00 and the result is True
+                         Undocking result received at 21:34:01 and the result is True
+Endurance test cycle 83:
+                         Prepare step started at 21:34:03
+                         Docking result received at 21:34:03 and the result is True
+                         Undocking result received at 21:34:03 and the result is True
+Endurance test cycle 84:
+                         Prepare step started at 21:34:05
+                         Docking result received at 21:34:05 and the result is True
+                         Undocking result received at 21:34:06 and the result is True
+Endurance test cycle 85:
+                         Prepare step started at 21:34:08
+                         Docking result received at 21:34:08 and the result is True
+                         Undocking result received at 21:34:08 and the result is True
+Endurance test cycle 86:
+                         Prepare step started at 21:34:10
+                         Docking result received at 21:34:11 and the result is True
+                         Undocking result received at 21:34:11 and the result is True
+Endurance test cycle 87:
+                         Prepare step started at 21:34:13
+                         Docking result received at 21:34:13 and the result is True
+                         Undocking result received at 21:34:14 and the result is True
+Endurance test cycle 88:
+                         Prepare step started at 21:34:16
+                         Docking result received at 21:34:16 and the result is True
+                         Undocking result received at 21:34:16 and the result is True
+Endurance test cycle 89:
+                         Prepare step started at 21:34:18
+                         Docking result received at 21:34:19 and the result is True
+                         Undocking result received at 21:34:19 and the result is True
+Endurance test cycle 90:
+                         Prepare step started at 21:34:21
+                         Docking result received at 21:34:21 and the result is False
+                         Undocking result received at 21:34:21 and the result is False
+Endurance test cycle 91:
+                         Prepare step started at 21:34:23
+                         Docking result received at 21:34:24 and the result is False
+                         Undocking result received at 21:34:24 and the result is False
+Endurance test cycle 92:
+                         Prepare step started at 21:34:26
+                         Docking result received at 21:34:26 and the result is False
+                         Undocking result received at 21:34:26 and the result is False
+Endurance test cycle 93:
+                         Prepare step started at 21:34:28
+                         Docking result received at 21:34:29 and the result is True
+                         Undocking result received at 21:34:29 and the result is True
+Endurance test cycle 94:
+                         Prepare step started at 21:34:31
+                         Docking result received at 21:34:31 and the result is True
+                         Undocking result received at 21:34:32 and the result is True
+Endurance test cycle 95:
+                         Prepare step started at 21:34:34
+                         Docking result received at 21:34:34 and the result is True
+                         Undocking result received at 21:34:35 and the result is True
+Endurance test cycle 96:
+                         Prepare step started at 21:34:37
+                         Docking result received at 21:34:37 and the result is True
+                         Undocking result received at 21:34:37 and the result is True
+Endurance test cycle 97:
+                         Prepare step started at 21:34:39
+                         Docking result received at 21:34:40 and the result is False
+                         Undocking result received at 21:34:40 and the result is False
+Endurance test cycle 98:
+                         Prepare step started at 21:34:42
+                         Docking result received at 21:34:42 and the result is True
+                         Undocking result received at 21:34:43 and the result is True
+Endurance test cycle 99:
+                         Prepare step started at 21:34:45
+                         Docking result received at 21:34:45 and the result is False
+                         Undocking result received at 21:34:45 and the result is False
+Endurance test cycle 100:
+                          Prepare step started at 21:34:47
+                          Docking result received at 21:34:47 and the result is False
+                          Undocking result received at 21:34:47 and the result is False
+Endurance test cycle 1:
+                        Prepare step started at 21:36:12
+                        Docking result received at 21:36:12 and the result is True
+                        Undocking result received at 21:36:13 and the result is True
+Endurance test cycle 2:
+                        Prepare step started at 21:36:15
+                        Docking result received at 21:36:15 and the result is True
+                        Undocking result received at 21:36:15 and the result is True
+Endurance test cycle 3:
+                        Prepare step started at 21:36:17
+                        Docking result received at 21:36:18 and the result is False
+                        Undocking result received at 21:36:18 and the result is False
+Endurance test cycle 4:
+                        Prepare step started at 21:36:20
+                        Docking result received at 21:36:20 and the result is True
+                        Undocking result received at 21:36:21 and the result is True
+Endurance test cycle 5:
+                        Prepare step started at 21:36:23
+                        Docking result received at 21:36:23 and the result is True
+                        Undocking result received at 21:36:23 and the result is True
+Endurance test cycle 6:
+                        Prepare step started at 21:36:25
+                        Docking result received at 21:36:26 and the result is False
+                        Undocking result received at 21:36:26 and the result is False
+Endurance test cycle 7:
+                        Prepare step started at 21:36:28
+                        Docking result received at 21:36:28 and the result is True
+                        Undocking result received at 21:36:28 and the result is True
+Endurance test cycle 8:
+                        Prepare step started at 21:36:30
+                        Docking result received at 21:36:31 and the result is True
+                        Undocking result received at 21:36:31 and the result is True
+Endurance test cycle 9:
+                        Prepare step started at 21:36:33
+                        Docking result received at 21:36:34 and the result is False
+                        Undocking result received at 21:36:34 and the result is False
+Endurance test cycle 10:
+                         Prepare step started at 21:36:36
+                         Docking result received at 21:36:36 and the result is True
+                         Undocking result received at 21:36:36 and the result is True
+Endurance test cycle 11:
+                         Prepare step started at 21:36:38
+                         Docking result received at 21:36:39 and the result is True
+                         Undocking result received at 21:36:39 and the result is True
+Endurance test cycle 12:
+                         Prepare step started at 21:36:41
+                         Docking result received at 21:36:41 and the result is True
+                         Undocking result received at 21:36:42 and the result is True
+Endurance test cycle 13:
+                         Prepare step started at 21:36:44
+                         Docking result received at 21:36:44 and the result is True
+                         Undocking result received at 21:36:45 and the result is True
+Endurance test cycle 14:
+                         Prepare step started at 21:36:47
+                         Docking result received at 21:36:47 and the result is True
+                         Undocking result received at 21:36:47 and the result is True
+Endurance test cycle 15:
+                         Prepare step started at 21:36:49
+                         Docking result received at 21:36:49 and the result is True
+                         Undocking result received at 21:36:50 and the result is True
+Endurance test cycle 16:
+                         Prepare step started at 21:36:52
+                         Docking result received at 21:36:52 and the result is True
+                         Undocking result received at 21:36:52 and the result is True
+Endurance test cycle 17:
+                         Prepare step started at 21:36:54
+                         Docking result received at 21:36:54 and the result is True
+                         Undocking result received at 21:36:55 and the result is True
+Endurance test cycle 18:
+                         Prepare step started at 21:36:57
+                         Docking result received at 21:36:57 and the result is False
+                         Undocking result received at 21:36:57 and the result is False
+Endurance test cycle 19:
+                         Prepare step started at 21:36:59
+                         Docking result received at 21:37:00 and the result is True
+                         Undocking result received at 21:37:00 and the result is True
+Endurance test cycle 20:
+                         Prepare step started at 21:37:02
+                         Docking result received at 21:37:02 and the result is True
+                         Undocking result received at 21:37:03 and the result is True
+Endurance test cycle 21:
+                         Prepare step started at 21:37:05
+                         Docking result received at 21:37:05 and the result is True
+                         Undocking result received at 21:37:05 and the result is True
+Endurance test cycle 22:
+                         Prepare step started at 21:37:07
+                         Docking result received at 21:37:08 and the result is False
+                         Undocking result received at 21:37:08 and the result is False
+Endurance test cycle 23:
+                         Prepare step started at 21:37:10
+                         Docking result received at 21:37:10 and the result is True
+                         Undocking result received at 21:37:10 and the result is True
+Endurance test cycle 24:
+                         Prepare step started at 21:37:12
+                         Docking result received at 21:37:12 and the result is True
+                         Undocking result received at 21:37:13 and the result is True
+Endurance test cycle 25:
+                         Prepare step started at 21:37:15
+                         Docking result received at 21:37:15 and the result is True
+                         Undocking result received at 21:37:15 and the result is True
+Endurance test cycle 26:
+                         Prepare step started at 21:37:17
+                         Docking result received at 21:37:18 and the result is False
+                         Undocking result received at 21:37:18 and the result is False
+Endurance test cycle 27:
+                         Prepare step started at 21:37:20
+                         Docking result received at 21:37:20 and the result is True
+                         Undocking result received at 21:37:21 and the result is True
+Endurance test cycle 28:
+                         Prepare step started at 21:37:23
+                         Docking result received at 21:37:23 and the result is True
+                         Undocking result received at 21:37:24 and the result is True
+Endurance test cycle 29:
+                         Prepare step started at 21:37:26
+                         Docking result received at 21:37:26 and the result is True
+                         Undocking result received at 21:37:26 and the result is True
+Endurance test cycle 30:
+                         Prepare step started at 21:37:28
+                         Docking result received at 21:37:28 and the result is False
+                         Undocking result received at 21:37:28 and the result is False
+Endurance test cycle 31:
+                         Prepare step started at 21:37:30
+                         Docking result received at 21:37:31 and the result is False
+                         Undocking result received at 21:37:31 and the result is False
+Endurance test cycle 32:
+                         Prepare step started at 21:37:33
+                         Docking result received at 21:37:33 and the result is True
+                         Undocking result received at 21:37:34 and the result is True
+Endurance test cycle 33:
+                         Prepare step started at 21:37:36
+                         Docking result received at 21:37:36 and the result is True
+                         Undocking result received at 21:37:36 and the result is True
+Endurance test cycle 34:
+                         Prepare step started at 21:37:38
+                         Docking result received at 21:37:39 and the result is False
+                         Undocking result received at 21:37:39 and the result is False
+Endurance test cycle 35:
+                         Prepare step started at 21:37:41
+                         Docking result received at 21:37:41 and the result is True
+                         Undocking result received at 21:37:42 and the result is True
+Endurance test cycle 36:
+                         Prepare step started at 21:37:44
+                         Docking result received at 21:37:44 and the result is False
+                         Undocking result received at 21:37:44 and the result is False
+Endurance test cycle 37:
+                         Prepare step started at 21:37:46
+                         Docking result received at 21:37:47 and the result is False
+                         Undocking result received at 21:37:47 and the result is False
+Endurance test cycle 38:
+                         Prepare step started at 21:37:49
+                         Docking result received at 21:37:49 and the result is True
+                         Undocking result received at 21:37:49 and the result is True
+Endurance test cycle 39:
+                         Prepare step started at 21:37:51
+                         Docking result received at 21:37:51 and the result is True
+                         Undocking result received at 21:37:52 and the result is True
+Endurance test cycle 40:
+                         Prepare step started at 21:37:54
+                         Docking result received at 21:37:54 and the result is True
+                         Undocking result received at 21:37:55 and the result is True
+Endurance test cycle 41:
+                         Prepare step started at 21:37:57
+                         Docking result received at 21:37:57 and the result is True
+                         Undocking result received at 21:37:57 and the result is True
+Endurance test cycle 42:
+                         Prepare step started at 21:37:59
+                         Docking result received at 21:38:00 and the result is True
+                         Undocking result received at 21:38:00 and the result is True
+Endurance test cycle 43:
+                         Prepare step started at 21:38:02
+                         Docking result received at 21:38:02 and the result is True
+                         Undocking result received at 21:38:03 and the result is True
+Endurance test cycle 44:
+                         Prepare step started at 21:38:05
+                         Docking result received at 21:38:05 and the result is False
+                         Undocking result received at 21:38:05 and the result is False
+Endurance test cycle 45:
+                         Prepare step started at 21:38:07
+                         Docking result received at 21:38:08 and the result is True
+                         Undocking result received at 21:38:08 and the result is True
+Endurance test cycle 46:
+                         Prepare step started at 21:38:10
+                         Docking result received at 21:38:10 and the result is True
+                         Undocking result received at 21:38:11 and the result is True
+Endurance test cycle 47:
+                         Prepare step started at 21:38:13
+                         Docking result received at 21:38:13 and the result is True
+                         Undocking result received at 21:38:14 and the result is True
+Endurance test cycle 48:
+                         Prepare step started at 21:38:16
+                         Docking result received at 21:38:16 and the result is True
+                         Undocking result received at 21:38:16 and the result is True
+Endurance test cycle 49:
+                         Prepare step started at 21:38:18
+                         Docking result received at 21:38:19 and the result is False
+                         Undocking result received at 21:38:19 and the result is False
+Endurance test cycle 50:
+                         Prepare step started at 21:38:21
+                         Docking result received at 21:38:21 and the result is True
+                         Undocking result received at 21:38:21 and the result is True
+Endurance test cycle 51:
+                         Prepare step started at 21:38:23
+                         Docking result received at 21:38:24 and the result is False
+                         Undocking result received at 21:38:24 and the result is False
+Endurance test cycle 52:
+                         Prepare step started at 21:38:26
+                         Docking result received at 21:38:26 and the result is True
+                         Undocking result received at 21:38:27 and the result is True
+Endurance test cycle 53:
+                         Prepare step started at 21:38:29
+                         Docking result received at 21:38:29 and the result is True
+                         Undocking result received at 21:38:29 and the result is True
+Endurance test cycle 54:
+                         Prepare step started at 21:38:31
+                         Docking result received at 21:38:32 and the result is True
+                         Undocking result received at 21:38:32 and the result is True
+Endurance test cycle 55:
+                         Prepare step started at 21:38:34
+                         Docking result received at 21:38:34 and the result is True
+                         Undocking result received at 21:38:35 and the result is True
+Endurance test cycle 56:
+                         Prepare step started at 21:38:37
+                         Docking result received at 21:38:37 and the result is True
+                         Undocking result received at 21:38:38 and the result is True
+Endurance test cycle 57:
+                         Prepare step started at 21:38:40
+                         Docking result received at 21:38:40 and the result is False
+                         Undocking result received at 21:38:40 and the result is False
+Endurance test cycle 58:
+                         Prepare step started at 21:38:42
+                         Docking result received at 21:38:42 and the result is False
+                         Undocking result received at 21:38:42 and the result is False
+Endurance test cycle 59:
+                         Prepare step started at 21:38:44
+                         Docking result received at 21:38:45 and the result is True
+                         Undocking result received at 21:38:45 and the result is True
+Endurance test cycle 60:
+                         Prepare step started at 21:38:47
+                         Docking result received at 21:38:48 and the result is False
+                         Undocking result received at 21:38:48 and the result is False
+Endurance test cycle 61:
+                         Prepare step started at 21:38:50
+                         Docking result received at 21:38:50 and the result is True
+                         Undocking result received at 21:38:50 and the result is True
+Endurance test cycle 62:
+                         Prepare step started at 21:38:52
+                         Docking result received at 21:38:53 and the result is False
+                         Undocking result received at 21:38:53 and the result is False
+Endurance test cycle 63:
+                         Prepare step started at 21:38:55
+                         Docking result received at 21:38:55 and the result is True
+                         Undocking result received at 21:38:56 and the result is True
+Endurance test cycle 64:
+                         Prepare step started at 21:38:58
+                         Docking result received at 21:38:58 and the result is True
+                         Undocking result received at 21:38:58 and the result is True
+Endurance test cycle 65:
+                         Prepare step started at 21:39:00
+                         Docking result received at 21:39:00 and the result is True
+                         Undocking result received at 21:39:01 and the result is True
+Endurance test cycle 66:
+                         Prepare step started at 21:39:03
+                         Docking result received at 21:39:03 and the result is True
+                         Undocking result received at 21:39:04 and the result is True
+Endurance test cycle 67:
+                         Prepare step started at 21:39:06
+                         Docking result received at 21:39:06 and the result is False
+                         Undocking result received at 21:39:06 and the result is False
+Endurance test cycle 68:
+                         Prepare step started at 21:39:08
+                         Docking result received at 21:39:08 and the result is True
+                         Undocking result received at 21:39:09 and the result is True
+Endurance test cycle 69:
+                         Prepare step started at 21:39:11
+                         Docking result received at 21:39:11 and the result is False
+                         Undocking result received at 21:39:11 and the result is False
+Endurance test cycle 70:
+                         Prepare step started at 21:39:13
+                         Docking result received at 21:39:14 and the result is True
+                         Undocking result received at 21:39:14 and the result is True
+Endurance test cycle 71:
+                         Prepare step started at 21:39:16
+                         Docking result received at 21:39:16 and the result is True
+                         Undocking result received at 21:39:17 and the result is True
+Endurance test cycle 72:
+                         Prepare step started at 21:39:19
+                         Docking result received at 21:39:19 and the result is True
+                         Undocking result received at 21:39:19 and the result is True
+Endurance test cycle 73:
+                         Prepare step started at 21:39:21
+                         Docking result received at 21:39:22 and the result is False
+                         Undocking result received at 21:39:22 and the result is False
+Endurance test cycle 74:
+                         Prepare step started at 21:39:24
+                         Docking result received at 21:39:24 and the result is True
+                         Undocking result received at 21:39:25 and the result is True
+Endurance test cycle 75:
+                         Prepare step started at 21:39:27
+                         Docking result received at 21:39:27 and the result is True
+                         Undocking result received at 21:39:27 and the result is True
+Endurance test cycle 76:
+                         Prepare step started at 21:39:29
+                         Docking result received at 21:39:30 and the result is False
+                         Undocking result received at 21:39:30 and the result is False
+Endurance test cycle 77:
+                         Prepare step started at 21:39:32
+                         Docking result received at 21:39:32 and the result is True
+                         Undocking result received at 21:39:33 and the result is True
+Endurance test cycle 78:
+                         Prepare step started at 21:39:35
+                         Docking result received at 21:39:35 and the result is True
+                         Undocking result received at 21:39:35 and the result is True
+Endurance test cycle 79:
+                         Prepare step started at 21:39:37
+                         Docking result received at 21:39:37 and the result is True
+                         Undocking result received at 21:39:38 and the result is True
+Endurance test cycle 80:
+                         Prepare step started at 21:39:40
+                         Docking result received at 21:39:40 and the result is True
+                         Undocking result received at 21:39:40 and the result is True
+Endurance test cycle 81:
+                         Prepare step started at 21:39:42
+                         Docking result received at 21:39:43 and the result is True
+                         Undocking result received at 21:39:43 and the result is True
+Endurance test cycle 82:
+                         Prepare step started at 21:39:45
+                         Docking result received at 21:39:45 and the result is True
+                         Undocking result received at 21:39:46 and the result is True
+Endurance test cycle 83:
+                         Prepare step started at 21:39:48
+                         Docking result received at 21:39:48 and the result is True
+                         Undocking result received at 21:39:48 and the result is True
+Endurance test cycle 84:
+                         Prepare step started at 21:39:50
+                         Docking result received at 21:39:50 and the result is True
+                         Undocking result received at 21:39:51 and the result is True
+Endurance test cycle 85:
+                         Prepare step started at 21:39:53
+                         Docking result received at 21:39:53 and the result is False
+                         Undocking result received at 21:39:53 and the result is False
+Endurance test cycle 86:
+                         Prepare step started at 21:39:55
+                         Docking result received at 21:39:56 and the result is True
+                         Undocking result received at 21:39:56 and the result is True
+Endurance test cycle 87:
+                         Prepare step started at 21:39:58
+                         Docking result received at 21:39:59 and the result is False
+                         Undocking result received at 21:39:59 and the result is False
+Endurance test cycle 88:
+                         Prepare step started at 21:40:01
+                         Docking result received at 21:40:01 and the result is False
+                         Undocking result received at 21:40:01 and the result is False
+Endurance test cycle 89:
+                         Prepare step started at 21:40:03
+                         Docking result received at 21:40:03 and the result is True
+                         Undocking result received at 21:40:04 and the result is True
+Endurance test cycle 90:
+                         Prepare step started at 21:40:06
+                         Docking result received at 21:40:06 and the result is True
+                         Undocking result received at 21:40:07 and the result is True
+Endurance test cycle 91:
+                         Prepare step started at 21:40:09
+                         Docking result received at 21:40:09 and the result is True
+                         Undocking result received at 21:40:09 and the result is True
+Endurance test cycle 92:
+                         Prepare step started at 21:40:11
+                         Docking result received at 21:40:12 and the result is True
+                         Undocking result received at 21:40:12 and the result is True
+Endurance test cycle 93:
+                         Prepare step started at 21:40:14
+                         Docking result received at 21:40:14 and the result is False
+                         Undocking result received at 21:40:14 and the result is False
+Endurance test cycle 94:
+                         Prepare step started at 21:40:16
+                         Docking result received at 21:40:17 and the result is False
+                         Undocking result received at 21:40:17 and the result is False
+Endurance test cycle 95:
+                         Prepare step started at 21:40:19
+                         Docking result received at 21:40:19 and the result is True
+                         Undocking result received at 21:40:20 and the result is True
+Endurance test cycle 96:
+                         Prepare step started at 21:40:22
+                         Docking result received at 21:40:22 and the result is False
+                         Undocking result received at 21:40:22 and the result is False
+Endurance test cycle 97:
+                         Prepare step started at 21:40:24
+                         Docking result received at 21:40:24 and the result is True
+                         Undocking result received at 21:40:25 and the result is True
+Endurance test cycle 98:
+                         Prepare step started at 21:40:27
+                         Docking result received at 21:40:27 and the result is True
+                         Undocking result received at 21:40:28 and the result is True
+Endurance test cycle 99:
+                         Prepare step started at 21:40:30
+                         Docking result received at 21:40:30 and the result is True
+                         Undocking result received at 21:40:30 and the result is True
+Endurance test cycle 100:
+                          Prepare step started at 21:40:32
+                          Docking result received at 21:40:32 and the result is True
+                          Undocking result received at 21:40:33 and the result is True
