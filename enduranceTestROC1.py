@@ -66,3 +66,5 @@ for cycleIndex in range(100):
     state = new_state
     print ("Undockresult = ", result, explanation_txt)
     time.sleep(2)
+
+endTestLogfile.close() # Closing the logFile at the end
